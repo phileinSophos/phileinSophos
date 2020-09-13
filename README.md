@@ -1,4 +1,9 @@
-### Hi there 👋
+### I am a Software Developer.
+### I am Machine Learning, Deep Learning, etc enthuast.
+### I work with C++, Python programming language.
+### I like to travel and read books :books:.
+### I have completed post-graduate studies.
+### I am working towards becoming a research scientist in the field of deep learning.
 
 <!--
 **phileinSophos/phileinSophos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
