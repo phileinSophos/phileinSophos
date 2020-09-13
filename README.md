@@ -1,10 +1,9 @@
-*I am a Software Developer :computer:.
-
-*I am Machine Learning, Deep Learning, etc enthuast.
-*I work with C++, Python programming language.
-*I like to travel and read books :books:.
-*I have completed post-graduate studies :school:.
-*I dream to be a research scientist in the field of deep learning.
+* I am a Software Developer :computer:.
+* I am Machine Learning, Deep Learning, etc enthuast.
+* I work with C++, Python programming language.
+* I like to travel and read books :books:.
+* I have completed post-graduate studies :school:.
+* I dream to be a research scientist in the field of deep learning.
 
 <!--
 **phileinSophos/phileinSophos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
